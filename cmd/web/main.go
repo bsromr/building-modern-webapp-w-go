@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/alexedwards/scs/v2"
-	"github.com/bsromr/modern-webapp-w-devops/pkg/config"
-	"github.com/bsromr/modern-webapp-w-devops/pkg/handlers"
-	"github.com/bsromr/modern-webapp-w-devops/pkg/render"
+	"github.com/bsromr/modern-webapp-w-devops/internal/config"
+	"github.com/bsromr/modern-webapp-w-devops/internal/handlers"
+	"github.com/bsromr/modern-webapp-w-devops/internal/render"
 )
 
 const portNumber = ":8080"
