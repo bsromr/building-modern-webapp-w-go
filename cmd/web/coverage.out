@@ -1,0 +1,13 @@
+mode: set
+github.com/bsromr/modern-webapp-w-devops/cmd/web/main.go:22.13,24.16 2 0
+github.com/bsromr/modern-webapp-w-devops/cmd/web/main.go:27.2,34.16 4 0
+github.com/bsromr/modern-webapp-w-devops/cmd/web/main.go:24.16,26.3 1 0
+github.com/bsromr/modern-webapp-w-devops/cmd/web/main.go:34.16,36.3 1 0
+github.com/bsromr/modern-webapp-w-devops/cmd/web/main.go:39.18,54.16 10 1
+github.com/bsromr/modern-webapp-w-devops/cmd/web/main.go:58.2,67.12 6 1
+github.com/bsromr/modern-webapp-w-devops/cmd/web/main.go:54.16,57.3 2 0
+github.com/bsromr/modern-webapp-w-devops/cmd/web/middleware.go:10.53,12.71 1 0
+github.com/bsromr/modern-webapp-w-devops/cmd/web/middleware.go:12.71,15.3 2 0
+github.com/bsromr/modern-webapp-w-devops/cmd/web/middleware.go:19.45,30.2 3 1
+github.com/bsromr/modern-webapp-w-devops/cmd/web/middleware.go:33.50,35.2 1 1
+github.com/bsromr/modern-webapp-w-devops/cmd/web/routes.go:13.49,38.2 18 1

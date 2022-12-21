@@ -1,0 +1,23 @@
+mode: set
+github.com/bsromr/modern-webapp-w-devops/internal/render/render.go:22.40,24.2 1 1
+github.com/bsromr/modern-webapp-w-devops/internal/render/render.go:27.84,33.2 5 1
+github.com/bsromr/modern-webapp-w-devops/internal/render/render.go:36.105,39.18 2 1
+github.com/bsromr/modern-webapp-w-devops/internal/render/render.go:46.2,47.9 2 1
+github.com/bsromr/modern-webapp-w-devops/internal/render/render.go:52.2,59.16 5 1
+github.com/bsromr/modern-webapp-w-devops/internal/render/render.go:64.2,64.12 1 1
+github.com/bsromr/modern-webapp-w-devops/internal/render/render.go:39.18,42.3 1 0
+github.com/bsromr/modern-webapp-w-devops/internal/render/render.go:42.8,44.3 1 1
+github.com/bsromr/modern-webapp-w-devops/internal/render/render.go:47.9,50.3 1 1
+github.com/bsromr/modern-webapp-w-devops/internal/render/render.go:59.16,62.3 2 0
+github.com/bsromr/modern-webapp-w-devops/internal/render/render.go:69.67,74.16 3 1
+github.com/bsromr/modern-webapp-w-devops/internal/render/render.go:78.2,78.29 1 1
+github.com/bsromr/modern-webapp-w-devops/internal/render/render.go:100.2,100.21 1 1
+github.com/bsromr/modern-webapp-w-devops/internal/render/render.go:74.16,76.3 1 0
+github.com/bsromr/modern-webapp-w-devops/internal/render/render.go:78.29,81.17 3 1
+github.com/bsromr/modern-webapp-w-devops/internal/render/render.go:85.3,86.17 2 1
+github.com/bsromr/modern-webapp-w-devops/internal/render/render.go:90.3,90.23 1 1
+github.com/bsromr/modern-webapp-w-devops/internal/render/render.go:97.3,97.21 1 1
+github.com/bsromr/modern-webapp-w-devops/internal/render/render.go:81.17,83.4 1 0
+github.com/bsromr/modern-webapp-w-devops/internal/render/render.go:86.17,88.4 1 0
+github.com/bsromr/modern-webapp-w-devops/internal/render/render.go:90.23,92.18 2 1
+github.com/bsromr/modern-webapp-w-devops/internal/render/render.go:92.18,94.5 1 0

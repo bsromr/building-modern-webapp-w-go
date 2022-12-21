@@ -1,0 +1,22 @@
+mode: set
+github.com/bsromr/modern-webapp-w-devops/internal/handlers/handlers.go:24.47,28.2 1 1
+github.com/bsromr/modern-webapp-w-devops/internal/handlers/handlers.go:31.33,33.2 1 1
+github.com/bsromr/modern-webapp-w-devops/internal/handlers/handlers.go:36.67,41.2 3 1
+github.com/bsromr/modern-webapp-w-devops/internal/handlers/handlers.go:44.68,56.2 5 1
+github.com/bsromr/modern-webapp-w-devops/internal/handlers/handlers.go:59.74,67.2 4 1
+github.com/bsromr/modern-webapp-w-devops/internal/handlers/handlers.go:70.78,72.16 2 1
+github.com/bsromr/modern-webapp-w-devops/internal/handlers/handlers.go:76.2,89.19 6 1
+github.com/bsromr/modern-webapp-w-devops/internal/handlers/handlers.go:100.2,101.66 2 1
+github.com/bsromr/modern-webapp-w-devops/internal/handlers/handlers.go:72.16,75.3 2 0
+github.com/bsromr/modern-webapp-w-devops/internal/handlers/handlers.go:89.19,98.3 4 0
+github.com/bsromr/modern-webapp-w-devops/internal/handlers/handlers.go:106.71,108.2 1 1
+github.com/bsromr/modern-webapp-w-devops/internal/handlers/handlers.go:111.69,113.2 1 1
+github.com/bsromr/modern-webapp-w-devops/internal/handlers/handlers.go:116.75,118.2 1 1
+github.com/bsromr/modern-webapp-w-devops/internal/handlers/handlers.go:121.79,125.2 3 1
+github.com/bsromr/modern-webapp-w-devops/internal/handlers/handlers.go:133.79,139.16 3 1
+github.com/bsromr/modern-webapp-w-devops/internal/handlers/handlers.go:142.2,144.14 3 1
+github.com/bsromr/modern-webapp-w-devops/internal/handlers/handlers.go:139.16,141.3 1 0
+github.com/bsromr/modern-webapp-w-devops/internal/handlers/handlers.go:148.70,150.2 1 1
+github.com/bsromr/modern-webapp-w-devops/internal/handlers/handlers.go:152.81,154.9 2 1
+github.com/bsromr/modern-webapp-w-devops/internal/handlers/handlers.go:161.2,166.4 4 0
+github.com/bsromr/modern-webapp-w-devops/internal/handlers/handlers.go:154.9,159.3 4 1
