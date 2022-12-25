@@ -7,15 +7,13 @@ RUN ls -lah
 RUN pwd
 RUN go mod download
 RUN go build -o app cmd/web/*.go
-RUN [./app]
+EXPOSE 8080
+CMD ["./app"]
 
-##ONLY 1 stage for now
-# FROM alpine:edge 
-# #LABEL builder=false
+# # FROM alpine:edge 
+# FROM golang:1.18.3-alpine3.15
+# # #LABEL builder=false
 # WORKDIR /app
-# RUN mkdir templates
-# COPY --from=build /go/src/github.com/bsromr/modern-webapp-w-devops .
-# RUN cp ./app cmd/web/
+# COPY --from=build /go/src/github.com/bsromr/modern-webapp-w-devops/app .
 # EXPOSE 8080
-# WORKDIR /app/cmd/web
-# RUN ["./app"]
+# CMD ["./app"]
