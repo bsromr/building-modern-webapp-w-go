@@ -7,6 +7,7 @@ RUN ls -lah
 RUN pwd
 RUN go mod download
 RUN go build -o app cmd/web/*.go
+RUN [./app]
 
 ##ONLY 1 stage for now
 # FROM alpine:edge 
